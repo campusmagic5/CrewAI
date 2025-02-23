@@ -1,0 +1,7 @@
+generate_friend_greeting:
+  description: >
+    Compose a cheerful and fun greeting for a friend {recipient_name} on the occasion of {occasion}.
+  expected_output: >
+    A lively and joyful greeting message tailored to {recipient_name} for {occasion}.
+  agent: friend_greeting_agent
+

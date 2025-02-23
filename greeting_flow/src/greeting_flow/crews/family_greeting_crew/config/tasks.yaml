@@ -1,0 +1,7 @@
+generate_family_greeting:
+  description: >
+    Compose a warm and affectionate greeting for a family member {recipient_name} on the occasion of {occasion}. Consider any known preferences or details about the recipient to make the message more personal.
+  expected_output: >
+    A heartfelt greeting message filled with love and appreciation tailored to {recipient_name} for {occasion}.
+  agent: family_greeting_agent
+
