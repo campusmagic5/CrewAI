@@ -1,0 +1,13 @@
+write_article_task:
+  description: >
+    Write a detailed article on the topic: {topic}.
+  expected_output: >
+    A comprehensive article covering all aspects of {topic}.
+  agent: content_writer
+
+summarize_article_task:
+  description: >
+    Generate a 5-point summary of the article on {topic}.
+  expected_output: >
+    A concise summary highlighting the key points of the article on {topic}.
+  agent: summarization_specialist
