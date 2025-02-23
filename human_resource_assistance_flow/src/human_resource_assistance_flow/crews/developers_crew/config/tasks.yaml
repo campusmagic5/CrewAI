@@ -1,0 +1,6 @@
+developers_information:
+  description: >
+    Find and provide information about the developer whose employee code is {employeeCode}.
+  expected_output: >
+    A detailed report containing the developer's name, job role, region, phone number, and email address.
+  agent: developer_information_retriever_agent

@@ -1,0 +1,84 @@
+{
+    "Developers": [
+        {
+            "name": "John Doe",
+            "job_role": "Developer",
+            "employeeCode": "E101",
+            "region": "US",
+            "phoneNumber": "555-1234",
+            "emailAddress": "jdoe@example.com"
+        },
+        {
+            "name": "Alice Smith",
+            "job_role": "Developer",
+            "employeeCode": "E102",
+            "region": "UK",
+            "phoneNumber": "555-5678",
+            "emailAddress": "asmith@example.com"
+        },
+        {
+            "name": "Michael Johnson",
+            "job_role": "Developer",
+            "employeeCode": "E103",
+            "region": "CA",
+            "phoneNumber": "555-8765",
+            "emailAddress": "mjohnson@example.com"
+        },
+        {
+            "name": "Laura Wilson",
+            "job_role": "Developer",
+            "employeeCode": "E104",
+            "region": "AU",
+            "phoneNumber": "555-4321",
+            "emailAddress": "lwilson@example.com"
+        },
+        {
+            "name": "David Lee",
+            "job_role": "Developer",
+            "employeeCode": "E105",
+            "region": "IN",
+            "phoneNumber": "555-6789",
+            "emailAddress": "dlee@example.com"
+        },
+        {
+            "name": "Tom Scott",
+            "job_role": "Developer",
+            "employeeCode": "E106",
+            "region": "US",
+            "phoneNumber": "555-9876",
+            "emailAddress": "tscott@example.com"
+        },
+        {
+            "name": "Kevin Garcia",
+            "job_role": "Developer",
+            "employeeCode": "E107",
+            "region": "CA",
+            "phoneNumber": "555-5432",
+            "emailAddress": "kgarcia@example.com"
+        },
+        {
+            "name": "Yvonne Rodriguez",
+            "job_role": "Developer",
+            "employeeCode": "E108",
+            "region": "UK",
+            "phoneNumber": "555-3456",
+            "emailAddress": "yrodriguez@example.com"
+        },
+        {
+            "name": "Brian Hernandez",
+            "job_role": "Developer",
+            "employeeCode": "E109",
+            "region": "AU",
+            "phoneNumber": "555-7654",
+            "emailAddress": "bhernandez@example.com"
+        },
+        {
+            "name": "Maria Lopez",
+            "job_role": "Developer",
+            "employeeCode": "E110",
+            "region": "IN",
+            "phoneNumber": "555-2468",
+            "emailAddress": "mlopez@example.com"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "Leads": [
+        {
+            "name": "Bob Williams",
+            "job_role": "Lead",
+            "employeeCode": "L201",
+            "region": "US",
+            "phoneNumber": "555-8765",
+            "emailAddress": "bwilliams@example.com"
+        },
+        {
+            "name": "Carol Jones",
+            "job_role": "Lead",
+            "employeeCode": "L202",
+            "region": "CA",
+            "phoneNumber": "555-4321",
+            "emailAddress": "cjones@example.com"
+        },
+        {
+            "name": "Richard Thomas",
+            "job_role": "Lead",
+            "employeeCode": "L203",
+            "region": "UK",
+            "phoneNumber": "555-5678",
+            "emailAddress": "rthomas@example.com"
+        },
+        {
+            "name": "Karen Moore",
+            "job_role": "Lead",
+            "employeeCode": "L204",
+            "region": "AU",
+            "phoneNumber": "555-1234",
+            "emailAddress": "kmoore@example.com"
+        },
+        {
+            "name": "Jose Martinez",
+            "job_role": "Lead",
+            "employeeCode": "L205",
+            "region": "IN",
+            "phoneNumber": "555-6789",
+            "emailAddress": "jmartinez@example.com"
+        },
+        {
+            "name": "Steven Lawrence",
+            "job_role": "Lead",
+            "employeeCode": "L206",
+            "region": "US",
+            "phoneNumber": "555-7890",
+            "emailAddress": "slawrence@example.com"
+        },
+        {
+            "name": "Diana Taylor",
+            "job_role": "Lead",
+            "employeeCode": "L207",
+            "region": "CA",
+            "phoneNumber": "555-6543",
+            "emailAddress": "dtaylor@example.com"
+        },
+        {
+            "name": "Jason Parker",
+            "job_role": "Lead",
+            "employeeCode": "L208",
+            "region": "UK",
+            "phoneNumber": "555-3210",
+            "emailAddress": "jparker@example.com"
+        },
+        {
+            "name": "Samantha Brown",
+            "job_role": "Lead",
+            "employeeCode": "L209",
+            "region": "AU",
+            "phoneNumber": "555-1357",
+            "emailAddress": "sbrown@example.com"
+        },
+        {
+            "name": "Mark Green",
+            "job_role": "Lead",
+            "employeeCode": "L210",
+            "region": "IN",
+            "phoneNumber": "555-9753",
+            "emailAddress": "mgreen@example.com"
+        }
+    ]
+}
