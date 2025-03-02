@@ -1,0 +1,23 @@
+read_file_task:
+  description: >
+    Read the file and return the content.
+  expected_output: >
+    Provide the accurate content in the file.
+  agent: file_read_agent
+
+csv_rag_task:
+  description: >
+    Analyze the CSV file to extract relevant information and provide a concise answer to the following question: {question}.
+    Ensure accuracy by cross-verifying data entries and consider any potential anomalies or missing values in the dataset.
+  expected_output: >
+    Provide a clear and concise answer to the question based on the CSV data.
+    If applicable, include relevant statistics or data summaries to support the answer.
+    Format the response in a user-friendly manner, using bullet points or tables as needed.
+  agent: csv_agent
+
+write_file_task:
+  description: >
+    Write the response in a file..
+  expected_output: >
+    write the accurate response in the file.
+  agent: file_write_agent

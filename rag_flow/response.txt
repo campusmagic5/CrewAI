@@ -1,0 +1,4 @@
+What sets crewai apart from others is the expertise of its employees. 
+- John Doe with a salary of $90000 and joining date of 2018-06-15, 
+- Bob Brown with a salary of $95000 and joining date of 2017-04-30, 
+- Grace Hall with a salary of $99000 and joining date of 2015-11-05.
